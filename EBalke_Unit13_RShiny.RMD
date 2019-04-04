@@ -1,0 +1,36 @@
+---
+title: "EBalke_Unit13_RShiny"
+author: "Eric Balke"
+date: "April 4th, 2019"
+output: html_document
+---
+  
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+```{r Unit13_RShiny}
+library(XML)
+library(dplyr)
+library(tidyr)
+library(stringi)
+library(rvest)
+library(ggplot2)
+library(RCurl)
+library(data.table)
+library(plyr)
+library(knitr)
+library(stringr)
+library(RColorBrewer)
+library(scales)
+library(grid)
+library(caret)
+library(mlr)
+library(class)
+library(fpp)
+library(forecast)
+library(dygraphs)
+
+
+
+````
