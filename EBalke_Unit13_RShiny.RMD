@@ -30,6 +30,7 @@ library(class)
 library(fpp)
 library(forecast)
 library(dygraphs)
+library(shiny)
 
 
 
