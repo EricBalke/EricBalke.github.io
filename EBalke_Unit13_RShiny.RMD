@@ -3,6 +3,7 @@ title: "EBalke_Unit13_RShiny"
 author: "Eric Balke"
 date: "April 4th, 2019"
 output: html_document
+runtime: shiny
 ---
   
 ```{r setup, include=FALSE}
@@ -31,6 +32,8 @@ library(fpp)
 library(forecast)
 library(dygraphs)
 library(shiny)
+library(tidyverse)
+library(cellranger)
 
 
 
